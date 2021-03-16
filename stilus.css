@@ -7,6 +7,11 @@ body{
 left: 100px;
 }
 
-.tablazatcim{
+table{
     margin: auto;
+    background-color:#485808;
+}
+
+#t01 {
+    background-color:#485808;
 }
