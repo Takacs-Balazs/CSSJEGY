@@ -7,15 +7,27 @@ body{
 left: 100px;
 }
 
-table{
+table {
     margin: auto;
     background-color:#485808;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 #t01 {
     background-color:#485808;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 
 .tablazat{
     color: white;
+    background-color:#485808;
+    }
+
+
+.tablazatcim {
+    margin: auto;
 }
